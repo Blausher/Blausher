@@ -1,4 +1,5 @@
 ## Hi there 👋
+[<img align="left" alt="yegor256 | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/blausher)
 
 <!--
 **Blausher/Blausher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
